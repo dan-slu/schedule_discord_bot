@@ -1,0 +1,14 @@
+#Token file
+TOKEN.py
+
+#compiled
+__pycache__/
+
+#logs
+logs/
+
+#todo
+todo.json
+
+#offline py file
+offline.py
